@@ -1,1 +1,1 @@
-Ce folder contient un folder `TransCa98277` qu'il s'agit les codes sources de l'API2, il faut copier ce folder au complet dans le repertoire de WAMP server `C:\wamp64\www\` une fois le WAMP server est correctement installe.
+Ce folder contient un folder s'appelle `TransCa98277` qu'il s'agit les codes sources de l'API2, il faut copier ce folder au complet dans le repertoire de WAMP server `C:\wamp64\www\` une fois le WAMP server est correctement installe.
